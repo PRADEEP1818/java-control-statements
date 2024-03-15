@@ -15,6 +15,7 @@ public class SwappingOfTwoNumbers {
 		a=a-b;
 		System.out.println("The value of a "+a);
 		System.out.println("The value of b "+b);
+		System.out.println("the value is Changed");
 
 	}
 
