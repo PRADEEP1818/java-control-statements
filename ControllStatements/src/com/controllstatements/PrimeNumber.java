@@ -24,6 +24,8 @@ public class PrimeNumber {
 		
 		if(flag)
 			System.out.println("It is a Prime Number");
+		
+		s.close();
 
 	}
 
